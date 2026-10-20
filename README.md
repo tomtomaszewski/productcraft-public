@@ -7,6 +7,7 @@ To prompty i ćwiczenia, których sam używam w pracy produktowej. Możesz je sk
 ## Co jest w repo
 
 - [LNO](LNO/) - audyt zadań i użycia AI przez pryzmat Leverage, Neutral i Overhead.
+- [product-diagnosis-frameworks](product-diagnosis-frameworks/) - frameworki do diagnozy sytuacji produktowej: lejek, trend, objaw i przyczyna, założenia, hipotezy.
 
 ## Więcej
 
