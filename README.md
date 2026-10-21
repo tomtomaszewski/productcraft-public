@@ -6,7 +6,13 @@ To prompty i ćwiczenia, których sam używam w pracy produktowej. Możesz je sk
 
 ## Co jest w repo
 
-- [LNO](LNO/) - audyt zadań i użycia AI przez pryzmat Leverage, Neutral i Overhead.
+- [LNO](LNO/) - audyt zadań i użycia AI przez pryzmat Leverage, Neutral i Overhead. Skill do instalacji: [lno-framework](LNO/lno-framework/).
+
+Żeby zainstalować skill LNO w Cursorze, skopiuj folder do swoich skilli:
+
+```bash
+cp -R LNO/lno-framework ~/.cursor/skills/
+```
 - [product-diagnosis-frameworks](product-diagnosis-frameworks/) - frameworki do diagnozy sytuacji produktowej: lejek, trend, objaw i przyczyna, założenia, hipotezy.
 
 ## Więcej
