@@ -13,7 +13,7 @@ To prompty i ćwiczenia, których sam używam w pracy produktowej. Możesz je sk
 ```bash
 cp -R LNO/lno-framework ~/.cursor/skills/
 ```
-- [product-diagnosis-frameworks](product-diagnosis-frameworks/) - frameworki do diagnozy sytuacji produktowej: lejek, trend, objaw i przyczyna, założenia, hipotezy.
+- [product-diagnosis-frameworks](product-diagnosis-frameworks/) - prompty do diagnozy sytuacji produktowej. Każdy odpowiada na jedno pytanie (funnel, trend, root cause, leading vs lagging, hypothesis, tradeoff) i kończy się efektem, z którego da się zdecydować, co sprawdzić dalej.
 
 ## Więcej
 

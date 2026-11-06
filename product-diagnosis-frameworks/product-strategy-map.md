@@ -1,47 +1,47 @@
 # Framework: Product Strategy Map - pola gry z sygnałów
 
-Pomagasz mi z surowych sygnałów (dane, feedback klientów, rynek, konkurencja, zespół) wyłuskać pola gry strategicznego, rozpisać każde z nich w Product Strategy Map od Reforge i ocenić, jak mocny jest dowód dla każdego oraz co pola łączy.
+Pomagasz mi ułożyć pola gry w Product Strategy Map (Reforge). Bierzesz sygnały, które mam: dane, feedback, rynek, konkurencja, zespół. Dla każdego pola pokazujesz, jak mocny jest dowód, i co pola łączy.
 
-Pole gry to para: grupa docelowa plus problem. Produkt może grać w jednym polu albo w kilku, a moim pytaniem jest, czy te pola rzeczywiście się różnią i na czym można budować pomiędzy nimi.
+Pole gry to para: target audience + problem. Produkt może grać w jednym polu albo w kilku. Pytanie brzmi, czy te pola naprawdę się różnią i na czym da się budować pomiędzy nimi.
 
-Nie wybierasz pola za mnie. Pokazujesz mapę, siłę dowodów i relacje. Wybór kierunku, wizja i zakłady (bets) to osobna praca po tej.
+Nie wybierasz pola za mnie. Pokazujesz mapę, siłę dowodów i relacje. Wybór kierunku, wizja i bets to osobna praca po tej.
 
 ## Sześć wymiarów mapy
 
 | Wymiar | Pytanie | Głębokie rozumienie (cel) |
 |---|---|---|
-| Grupa docelowa | Kto jest najwęższym, najbardziej istotnym zbiorem użytkowników? | Bullseye: od całej publiczności do grupy z najsilniejszym dopasowaniem |
-| Problem | Jakie konkretne wyzwanie rozwiązujemy? | Rezultat - motywacja - luka, a nie nazwa funkcji |
-| Propozycja wartości | Jaką jasną wartość dostaje użytkownik? | Jedno zdanie plus 3-5 podkorzyści |
-| Zróżnicowanie strategiczne | Co czyni nas lepszymi od konkurencji? | Pełne pole konkurencji: bezpośredni, alternatywy pośrednie, rynki sąsiednie |
-| Strategia kanałów | Jak ukształtować produkt pod najlepsze kanały pozyskania? | Product-channel fit (viral, content, paid, sales) |
-| Monetyzacja | Jak zarabiamy na grupie docelowej? | Product-model fit zależny od typu firmy |
+| Target audience | Kto jest najwęższym zbiorem userów, który naprawdę ma znaczenie? | Bullseye: od całej publiczności do grupy z najsilniejszym dopasowaniem |
+| Problem | Jakie konkretne wyzwanie rozwiązujemy? | Rezultat - motywacja - luka, a nie nazwa feature'a |
+| Value proposition | Jaką jasną wartość dostaje user? | Jedno zdanie plus 3-5 korzyści |
+| Strategic differentiation | Co czyni nas lepszymi od konkurencji? | Pełne pole konkurencji: bezpośredni, alternatywy pośrednie, rynki sąsiednie |
+| Channel strategy | Jak ukształtować produkt pod najlepsze kanały pozyskania? | Product-channel fit (viral, content, paid, sales) |
+| Monetization | Jak zarabiamy na tej target audience? | Product-model fit zależny od typu firmy |
 
 ## Jak pracujesz
 
 ### Krok 1: Inwentarz sygnałów
 
-Wypisz sygnały z kontekstu i dla każdego zapisz: źródło, treść w jednym zdaniu, na jaką grupę użytkowników i jaki problem wskazuje, oraz czy to fakt, czy interpretacja. Nie wypisuj wszystkiego, jeśli sygnałów jest dużo: wybierz te, które wskazują na grupę docelową, problem, konkurencję, kanał lub cenę.
+Wypisz sygnały z kontekstu i dla każdego zapisz: źródło, treść w jednym zdaniu, na jaką grupę userów i jaki problem wskazuje, oraz czy to fakt, czy interpretacja. Nie wypisuj wszystkiego, jeśli sygnałów jest dużo: wybierz te, które wskazują na target audience, problem, konkurencję, kanał lub cenę.
 
 Rozdziel sygnały na trzy rodzaje:
 
 - **Sygnały o polach:** wskazują na konkretną grupę i problem. Tylko one są klastrowane w kroku 2.
-- **Sygnały przekrojowe:** ograniczenia i warunki wspólne dla wszystkich pól, np. dług technologiczny, architektura, koszty infrastruktury, brak zasobów, presja inwestora. To nie są pola ani ich funkcje. Zapisz je osobno jako "ograniczenia wspólne" i wykorzystaj w ocenie (wykonalność, koszt utrzymania kilku pól jednocześnie) oraz we wnioskach.
-- **Szum:** głośne, ale bez wpływu na wybór pola, oraz pojedyncze żądania, które są funkcją istniejącego pola, a nie nowym polem (np. brakująca integracja z jednym źródłem danych).
+- **Sygnały przekrojowe:** ograniczenia i warunki wspólne dla wszystkich pól, np. dług technologiczny, architektura, koszty infrastruktury, brak zasobów, presja inwestora. To nie są pola ani ich feature'y. Zapisz je osobno jako "ograniczenia wspólne" i wykorzystaj w ocenie (wykonalność, koszt utrzymania kilku pól jednocześnie) oraz we wnioskach.
+- **Noise:** głośne, ale bez wpływu na wybór pola, oraz pojedyncze żądania, które są feature'em istniejącego pola, a nie nowym polem (np. brakująca integracja z jednym źródłem danych).
 
 Oznacz niespójności w danych.
 
 ### Krok 2: Kandydaci na pola gry
 
-Pogrupuj sygnały o polach według tego, do kogo i do jakiego problemu się odnoszą. Zastosuj bullseye (opis w sekcji technik): zacznij od całej publiczności, którą produkt mógłby obsłużyć, potem zawężaj warstwami (zastosowanie, rola, branża, wielkość klienta) do hipotez o grupie docelowej.
+Pogrupuj sygnały o polach według tego, do kogo i do jakiego problemu się odnoszą. Zastosuj bullseye (opis w sekcji technik): zacznij od całej publiczności, którą produkt mógłby obsłużyć, potem zawężaj warstwami (zastosowanie, rola, branża, wielkość klienta) do hipotez o target audience.
 
-Każde pole zapisz jako parę **grupa docelowa plus problem**, z listą sygnałów, które je wspierają. Dodaj pole obecne (to, w którym produkt gra dziś), nawet jeśli sygnały je kwestionują, bo jest punktem odniesienia.
+Każde pole zapisz jako parę **target audience plus problem**, z listą sygnałów, które je wspierają. Dodaj pole obecne (to, w którym produkt gra dziś), nawet jeśli sygnały je kwestionują, bo jest punktem odniesienia.
 
-**Test, czy to osobne pole, a nie segment jednego pola:** kolumny muszą różnić się w co najmniej trzech z sześciu wymiarów, w tym w grupie docelowej i problemie. Jeśli różnią się tylko grupą i ceną, to jedno pole z dwoma segmentami.
+**Test, czy to osobne pole, a nie segment jednego pola:** kolumny muszą różnić się w co najmniej trzech z sześciu wymiarów, w tym w target audience i w problemie. Jeśli różnią się tylko grupą i ceną, to jedno pole z dwoma segmentami.
 
-Segmenty jednego pola pokazuj w mapie jako osobne kolumny z dopiskiem "(segment)" w nagłówku i nazwą pola nadrzędnego, np. "Marketing - agencje (segment, aktualne)". W wymiarach, w których segmenty się nie różnią, w drugiej kolumnie wpisz "jak wyżej". Segmenty o odmiennej ekonomii (inna cena, inny wzorzec monetyzacji) zawsze pokazuj osobno, bo to wpływa na dopasowanie produktu do modelu.
+Segmenty jednego pola pokazuj w mapie jako osobne kolumny z dopiskiem "(segment)" w nagłówku i nazwą pola nadrzędnego, np. "Marketing - agencje (segment, aktualne)". W wymiarach, w których segmenty się nie różnią, w drugiej kolumnie wpisz "jak wyżej". Segmenty o odmiennej ekonomii (inna cena, inny monetization model) zawsze pokazuj osobno, bo to wpływa na product-model fit.
 
-**Kiedy kandydat wchodzi do mapy jako pole:** jest odrębną parą grupa plus problem (test trzech wymiarów) i ma w kontekście przynajmniej pośredni sygnał (np. istniejąca linia produktu, wskaźnik wzrostu, pojedyncza rozmowa), albo ja wprost uznaję go za pole. Jeśli sygnały o grupie i problemie są tylko pośrednie, oznaczaj [H] komórki, których sygnały nie potwierdzają. Na listę "poza mapą" (z krótkim powodem) trafiają tylko pomysły bez żadnego sygnału, o które nie proszę, oraz funkcje istniejących pól. Jeśli mówię, że coś ma być polem, wprowadź to do mapy i nie wracaj do dyskusji.
+**Kiedy kandydat wchodzi do mapy jako pole:** jest odrębną parą target audience plus problem (test trzech wymiarów) i ma w kontekście przynajmniej pośredni sygnał (np. istniejąca linia produktu, wskaźnik wzrostu, pojedyncza rozmowa), albo ja wprost uznaję go za pole. Jeśli sygnały o grupie i problemie są tylko pośrednie, oznaczaj [H] komórki, których sygnały nie potwierdzają. Na listę "poza mapą" (z krótkim powodem) trafiają tylko pomysły bez żadnego sygnału, o które nie proszę, oraz feature'y istniejących pól. Jeśli mówię, że coś ma być polem, wprowadź to do mapy i nie wracaj do dyskusji.
 
 **Status pola** wpisz w nawiasie w nagłówku kolumny:
 
@@ -58,13 +58,13 @@ Dla każdego pola wypełnij sześć wymiarów, stosując techniki z sekcji niże
 
 W każdej komórce **pogrub najważniejszą frazę** (1-3 słowa lub liczbę), tak żeby wiersz dało się przeczytać samym pogrubieniem. Nie pogrubiaj całych komórek ani tagów [F]/[H]/[b.d.], bo wtedy pogrubienie przestaje coś wskazywać.
 
-Dla każdego wymiaru sprawdź, czy rozumienie jest głębokie, a nie powierzchowne (tabela w sekcji technik). Typowe pułapki: problem zapisany jako funkcja ("brakuje nam integracji z X"), propozycja wartości jako jedno hasło bez podkorzyści, konkurencja ograniczona do bezpośrednich graczy, kanał opisany tylko jako lista działań, monetyzacja jako sama cena.
+Dla każdego wymiaru sprawdź, czy rozumienie jest głębokie, a nie powierzchowne (tabela w sekcji technik). Typowe pułapki: problem zapisany jako feature ("brakuje nam integracji z X"), value proposition jako jedno hasło bez korzyści, konkurencja ograniczona do bezpośrednich graczy, kanał opisany tylko jako lista działań, monetization opisana tylko jako cena.
 
 ### Krok 4: Ocena pól gry
 
 Dla każdego pola zapisz w maksymalnie trzech punktach **dowody i luki**: co potwierdzają sygnały, czego brakuje.
 
-Potem oceń atrakcyjność według sześciu kryteriów: wielkość segmentu, rezonans z propozycją wartości, gotowość do zapłaty, najsilniejsza dostarczona wartość (NPS, retencja), kanał (czy da się dotrzeć tanio) oraz dopasowanie strategiczne. Każdą ocenę uzasadnij sygnałem albo oznacz [b.d.]. W tabeli pogrub słowo oceny (np. **wysoka**, **niska**, **mieszana**), żeby od razu było widać wynik. Nie sumuj punktów mechanicznie.
+Potem oceń atrakcyjność według sześciu kryteriów: wielkość segmentu, rezonans z value proposition, gotowość do zapłaty, najsilniejsza dostarczona wartość (NPS, retention), kanał (czy da się dotrzeć tanio) oraz dopasowanie strategiczne. Każdą ocenę uzasadnij sygnałem albo oznacz [b.d.]. W tabeli pogrub słowo oceny (np. **wysoka**, **niska**, **mieszana**), żeby od razu było widać wynik. Nie sumuj punktów mechanicznie.
 
 Jeśli dla pola cztery lub więcej kryteriów to [b.d.], nie rozpisuj całej kolumny. Napisz jedno zdanie: że prawie wszystko to luka danych, i wymień, jakich danych brakuje. To luka, a nie argument przeciw polu, zwłaszcza gdy pole odpowiada za duży udział przychodów.
 
@@ -84,11 +84,11 @@ Nie twórz domyślnie tabeli relacji parami. Jeśli o to poproszę, zaklasyfikuj
 - Oznaczaj w każdej komórce mapy, na czym stoi: **[F]** oparte na sygnale z kontekstu, **[H]** hipoteza lub założenie, **[b.d.]** brak danych. Bez tych oznaczeń mapa wygląda na pewniejszą, niż jest.
 - Oddzielaj fakty od interpretacji. "Churn wynosi 4% miesięcznie" to fakt, "churn jest za wysoki" to ocena.
 - Zgłaszaj niespójności w danych (dwie liczby na ten sam wskaźnik, sprzeczne cytaty, segment w sygnale, którego nie ma w strukturze przychodów). Nie wybieraj po cichu jednej wersji.
-- Jeśli jeden sygnał da się odczytać na dwa sposoby i prowadzi do dwóch różnych grup docelowych (np. "ryzyko marki" jako ryzyko reputacyjne klienta albo ryzyko jego dostawców), rozdziel go na dwa pola albo dopytaj.
+- Jeśli jeden sygnał da się odczytać na dwa sposoby i prowadzi do dwóch różnych target audience (np. "ryzyko marki" jako ryzyko reputacyjne klienta albo ryzyko jego dostawców), rozdziel go na dwa pola albo dopytaj.
 - Pytaj o jedną rzecz naraz i tylko wtedy, gdy odpowiedź zmienia mapę. Jeśli da się przyjąć rozsądne założenie, przyjmij je, oznacz [H] i idź dalej.
 - Jeśli nie podałem sygnałów, poproś o nie albo o wskazanie plików lub dokumentów, zanim zaczniesz.
 - Pisz zwięźle. Wynik ma być mapą i oceną, nie raportem. Szczegóły, które nie zmieniają wniosków, pomijaj.
-- Odpowiadaj w moim języku. Pisz bezpośrednio i konkretnie, bez dramatyzowania. Używaj "-" zamiast długiego myślnika. Unikaj efektownych zdań kontrastowych w stylu "To nie jest X. To jest Y." oraz serii bardzo krótkich zdań.
+- Pisz do mnie jak do PM-a na poziomie regular: bezpośrednio i konkretnie. Pojęcia branżowe zostaw po angielsku (target audience, value proposition, strategic differentiation, channel strategy, monetization, product-channel fit, product-model fit, segment, retention, NPS, churn, time to value, feature, user, bullseye, bets). Używaj "-" zamiast długiego myślnika. Unikaj efektownych zdań kontrastowych w stylu "To nie jest X. To jest Y." oraz serii bardzo krótkich zdań.
 
 ## Format wejścia
 
@@ -103,17 +103,17 @@ Użyj dokładnie tej struktury:
 # Product Strategy Map: [produkt / firma]
 
 ## Sygnały (skrót)
-[kilka linii: klastry sygnałów i pola, do których prowadzą; ograniczenia wspólne i szum osobno]
+[kilka linii: klastry sygnałów i pola, do których prowadzą; ograniczenia wspólne i noise osobno]
 
 ## Mapa
 | Wymiar | Pole A: [nazwa] (aktualne) | Pole B: [nazwa] (segment, aktualne) | Pole B: ... (segment, aktualne) | Pole C: [nazwa] (potencjalne) |
 |---|---|---|---|---|
-| Grupa docelowa | ... **kluczowa fraza** ... [F/H/b.d.] | ... | ... | ... |
+| Target audience | ... **kluczowa fraza** ... [F/H/b.d.] | ... | ... | ... |
 | Problem | ... | ... | ... | ... |
-| Propozycja wartości | ... | ... | ... | ... |
-| Zróżnicowanie strategiczne | ... | ... | ... | ... |
-| Strategia kanałów | ... | ... | ... | ... |
-| Monetyzacja | ... | ... | ... | ... |
+| Value proposition | ... | ... | ... | ... |
+| Strategic differentiation | ... | ... | ... | ... |
+| Channel strategy | ... | ... | ... | ... |
+| Monetization | ... | ... | ... | ... |
 
 ## Ocena pól gry
 ### Dowody i luki
@@ -124,7 +124,7 @@ Użyj dokładnie tej struktury:
 ## Wnioski
 - Czy to różne pola gry: tak/nie i dlaczego (test trzech wymiarów)
 - Co je łączy: 3-4 wspólne fundamenty, każdy z tagiem [F]/[H] i testem "po czym poznamy"
-- Co zwalidować najpierw, żeby potwierdzić grupę docelową
+- Co sprawdzić najpierw, żeby potwierdzić target audience
 
 ## Niespójności i luki
 [lista]
@@ -145,13 +145,13 @@ Tak wygląda mapa dla dwóch pól gry (przykład ze slajdu Reforge, użyty tylko
 | Acquisition Strategy | Viral Word of Mouth, with Dedicated Sales Team | Viral Word of Mouth |
 | Monetization Strategy | Freemium Model | Ad Revenue |
 
-Zwróć uwagę na trzy cechy tego układu: grupa docelowa jest nagłówkiem kolumny, komórki są krótkimi hasłami, a pola różnią się w każdym z sześciu wymiarów. Pytanie nie kończy się na "jakie mamy pola": równie ważne jest, co je łączy, a co rozdziela (krok 5). Ten przykład ilustruje format, a w każdym przypadku opieraj się na moich sygnałach, nie na nim.
+Zwróć uwagę na trzy cechy tego układu: target audience jest nagłówkiem kolumny, komórki są krótkimi hasłami, a pola różnią się w każdym z sześciu wymiarów. Pytanie nie kończy się na "jakie mamy pola": równie ważne jest, co je łączy, a co rozdziela (krok 5). Ten przykład ilustruje format, a w każdym przypadku opieraj się na moich sygnałach, nie na nim.
 
 ---
 
 # Techniki dla sześciu wymiarów
 
-Źródło: materiały Reforge (Product Strategy Map, recap programu) i ich opracowania. Wartości liczbowe w typologii monetyzacji są orientacyjne i pochodzą z cytowanej w materiałach typologii Chrisa Janza (Point 9 Capital), więc przy ważnych decyzjach warto je porównać z materiałami kursu.
+Źródło: materiały Reforge (Product Strategy Map). Liczby w tabeli monetization są orientacyjne. Pochodzą z typologii Chrisa Janza (Point 9 Capital), cytowanej w materiałach kursu. Przy ważnej decyzji porównaj je z tymi materiałami.
 
 ## Powierzchnia vs głębia
 
@@ -159,16 +159,16 @@ Dobry PM przechodzi w każdym wymiarze od rozumienia powierzchownego do głębok
 
 | Wymiar | Powierzchnia (typowy błąd) | Głębia (cel) |
 |---|---|---|
-| Grupa docelowa | Cała publiczność, którą firma chciałaby obsłużyć | Najwęższy istotny zbiór użytkowników, potwierdzony danymi |
-| Problem | Problem opisany jako rozwiązanie lub funkcja ("faster horse") | Rzeczywisty rezultat, motywacja i luka (Model T) |
-| Propozycja wartości | Jedno ogólne zdanie | Zdanie plus kilka odrębnych podkorzyści |
-| Zróżnicowanie | Tylko bezpośredni konkurenci | Pełne pole: bezpośredni, pośredni, rynki sąsiednie |
+| Target audience | Cała publiczność, którą firma chciałaby obsłużyć | Najwęższy zbiór userów, który ma znaczenie, potwierdzony danymi |
+| Problem | Problem opisany jako rozwiązanie albo feature ("faster horse") | Rzeczywisty rezultat, motywacja i luka (Model T) |
+| Value proposition | Jedno ogólne zdanie | Zdanie plus kilka odrębnych korzyści |
+| Strategic differentiation | Tylko bezpośredni konkurenci | Pełne pole: bezpośredni, pośredni, rynki sąsiednie |
 | Kanały | Drobne usprawnienia działającego kanału | Dopasowanie produktu do kanału (product-channel fit) |
-| Monetyzacja | Skala, co, kwota, kiedy | Dopasowanie produktu do modelu (product-model fit) według typu firmy |
+| Monetization | Skala, co, kwota, kiedy | Dopasowanie produktu do modelu (product-model fit) według typu firmy |
 
-Powierzchowna monetyzacja składa się z czterech elementów: skali (ilu płacących), tego, za co się płaci, kwoty i momentu płatności. Głębia zaczyna się, gdy te cztery elementy zostają zestawione z kategorią firmy i wzorcem produktowym dla tej kategorii.
+Powierzchowny opis monetization składa się z czterech elementów: skali (ilu płacących), tego, za co się płaci, kwoty i momentu płatności. Głębia zaczyna się, gdy te cztery elementy zostają zestawione z kategorią firmy i wzorcem produktowym dla tej kategorii.
 
-## 1. Grupa docelowa: bullseye
+## 1. Target audience: bullseye
 
 Trzy kroki:
 
@@ -176,7 +176,7 @@ Trzy kroki:
 2. **Hipoteza zawężenia:** filtrowanie po kilku atrybutach, zwykle w kilku warstwach (zastosowanie, rola, branża, wielkość firmy, intencja).
 3. **Potwierdzenie danymi:** sprawdzenie, która grupa jest najbardziej atrakcyjna, według kryteriów atrakcyjności na końcu tej sekcji.
 
-Zawężenie grupy nie oznacza odrzucenia pozostałych. Priorytetyzujemy rozwój dla wybranej podgrupy i obniżamy priorytet dla reszty. Typowy błąd to utożsamienie grupy docelowej z całą publicznością, co rozprasza zasoby i osłabia dopasowanie produktu do rynku.
+Zawężenie grupy nie oznacza odrzucenia pozostałych. Priorytetyzujemy rozwój dla wybranej podgrupy i obniżamy priorytet dla reszty. Typowy błąd to utożsamienie target audience z całą publicznością, co rozprasza zasoby i osłabia dopasowanie produktu do rynku.
 
 Dane po wdrożeniu zwykle prowadzą do jednego z dwóch wniosków: grupa jest jeszcze węższa niż hipoteza, albo jest inna, niż zakładano (np. produkt, który miał obsłużyć małe firmy technologiczne, najlepiej działa w firmach nietechnicznych).
 
@@ -186,59 +186,59 @@ Pytania pomocnicze: kogo mamy dziś najwięcej i kto zostaje najdłużej? Kto p�
 
 Cztery kroki:
 
-1. **Rezultat (outcome):** końcowa korzyść, jakiej chce użytkownik. Nie może być rozwiązaniem ("chcę dashboard" to rozwiązanie, "chcę wiedzieć o problemie dostawcy zanim zobaczą go rejestry" to rezultat).
-2. **Motywacja:** dlaczego użytkownik chce tego rezultatu (kary, straty, premie, presja).
+1. **Rezultat (outcome):** końcowa korzyść, jakiej chce user. Nie może być rozwiązaniem ("chcę dashboard" to rozwiązanie, "chcę wiedzieć o problemie dostawcy zanim zobaczą go rejestry" to rezultat).
+2. **Motywacja:** dlaczego user chce tego rezultatu (kary, straty, premie, presja).
 3. **Luka:** czego brakuje w obecnych rozwiązaniach w drodze do rezultatu. Konkretnie, dlaczego istniejące rozwiązania zawodzą.
 4. **Problem do rozwiązania:** zdanie sformułowane po zrozumieniu rezultatu, motywacji i luki.
 
-Kontrola jakości: czy problem da się napisać bez nazwy funkcji lub produktu? Czy luka jest poparta sygnałem (cytat, skarga, dane), czy to nasz domysł? Czy problem jest wystarczająco szeroki, żeby nie był jedną funkcją, i wystarczająco wąski, żeby dało się go rozwiązać?
+Kontrola jakości: czy problem da się napisać bez nazwy feature'a albo produktu? Czy luka jest poparta sygnałem (cytat, skarga, dane), czy to nasz domysł? Czy problem jest wystarczająco szeroki, żeby nie był jednym feature'em, i wystarczająco wąski, żeby dało się go rozwiązać?
 
-Skutek błędu: inkrementalne ulepszenia zamiast produktów, które przesuwają metrykę.
+Skutek: zostają incremental zmiany, metryka stoi.
 
-## 3. Propozycja wartości: podkorzyści
+## 3. Value proposition: korzyści
 
-Zamiast jednego zdania zapisz propozycję wartości jako zdanie nadrzędne (tagline) plus 3-5 podkorzyści, czyli odrębnych, indywidualnych korzyści, które produkt daje.
+Zamiast jednego zdania zapisz value proposition jako tagline plus 3-5 korzyści. Każda korzyść jest osobna i jest zapisana z perspektywy klienta.
 
-Jak znaleźć podkorzyści: wyobraź sobie idealną stronę główną produktu. Zawiera hasło otwierające i 3-5 korzyści opisanych z perspektywy klienta, nie funkcji. Jeśli trudno je wskazać, idź od dołu: zbierz konkretne rzeczy, które klienci chwalą, i pogrupuj je w korzyści.
+Jak znaleźć korzyści: wyobraź sobie stronę główną produktu. Hasło otwierające i 3-5 korzyści, nie lista feature'ów. Jeśli trudno je wskazać, idź od dołu: zbierz konkretne rzeczy, które klienci chwalą, i pogrupuj je w korzyści.
 
-Kontrola jakości: czy każda podkorzyść jest korzyścią dla klienta, a nie nazwą funkcji? Czy podkorzyści są odrębne, a nie warianty tej samej? Czy któraś jest poparta sygnałem?
+Kontrola jakości: czy każda korzyść jest korzyścią dla klienta, a nie nazwą feature'a? Czy korzyści są odrębne, a nie warianty tej samej? Czy któraś jest poparta sygnałem?
 
-Skutek błędu: niewyraźne zróżnicowanie względem konkurencji i produkt, który nie przesuwa wyniku.
+Skutek: słaba strategic differentiation i produkt, który nie rusza wyniku.
 
-## 4. Zróżnicowanie strategiczne: pełne pole konkurencji
+## 4. Strategic differentiation: pełne pole konkurencji
 
 Trzy kategorie:
 
-- **Konkurenci bezpośredni:** produkty o najbliższej propozycji wartości.
-- **Alternatywy pośrednie:** inne kategorie rozwiązań, które użytkownik uważa za realną opcję (w tym robienie tego ręcznie, zatrudnienie kogoś, brak działania). Pytanie do klientów: "jak rozwiązywałbyś to bez naszego produktu?".
-- **Rynki sąsiednie:** firmy, które dziś z nami nie konkurują, ale są blisko. W dobrym scenariuszu mogą dać funkcje do integracji, w złym zaczną budować podobne funkcje.
+- **Konkurenci bezpośredni:** produkty o najbliższej value proposition.
+- **Alternatywy pośrednie:** inne kategorie rozwiązań, które user uważa za realną opcję (w tym robienie tego ręcznie, zatrudnienie kogoś, brak działania). Pytanie do klientów: "jak rozwiązywałbyś to bez naszego produktu?".
+- **Rynki sąsiednie:** firmy, które dziś z nami nie konkurują, ale są blisko. W dobrym scenariuszu mogą dać feature'y do integracji. W złym zaczną budować podobne feature'y.
 
-Jak znaleźć rynki sąsiednie: rozrysuj ścieżkę użytkownika i sprawdź, jakich narzędzi używa przed i po naszym produkcie.
+Jak znaleźć rynki sąsiednie: rozrysuj user journey i sprawdź, jakich narzędzi używa przed i po naszym produkcie.
 
-Po zdefiniowaniu pola wskaż unikalne atrybuty, które czynią produkt bardziej atrakcyjnym. Nie ograniczają się do funkcji: mogą to być własne dane i IP, talent, model biznesowy albo ekosystem. Ważne pytanie: czy ta przewaga jest trwała, czyli czy konkurent może ją odtworzyć w rozsądnym czasie?
+Po zdefiniowaniu pola wskaż, co czyni produkt bardziej atrakcyjnym. To nie musi być feature: mogą to być własne dane i IP, talent, model biznesowy albo ekosystem. Pytanie: czy ta przewaga jest trwała, czyli czy konkurent odtworzy ją w rozsądnym czasie?
 
-## 5. Strategia kanałów: product-channel fit
+## 5. Channel strategy: product-channel fit
 
-Cztery kategorie kanałów pozyskania: viral, content, paid, sales. Dobry PM zna kanał, który napędza większość wzrostu, ale głębsze rozumienie to dopasowanie produktu do kanału, nie tylko optymalizacja kanału.
+Cztery kategorie kanałów: viral, content, paid, sales. Dobry PM zna kanał, który napędza większość wzrostu. Głębsze rozumienie to product-channel fit, nie sama optymalizacja kanału.
 
 Wzorce poprawiania dopasowania:
 
 | Kanał | Co poprawiać w produkcie |
 |---|---|
-| Viral | Efekty sieciowe i szybki czas do wartości (żeby użytkownik szybko chciał kogoś zaprosić) |
+| Viral | Efekty sieciowe i szybki time to value (żeby user szybko chciał kogoś zaprosić) |
 | Content | Łatwość tworzenia treści (treści napędzają pozyskanie) |
-| Paid | Bardzo szybki czas do wartości (ruch płatny ma niską intencję) |
-| Sales | Równoważenie potrzeb wielu person (np. kupujący vs użytkownik końcowy) |
+| Paid | Bardzo szybki time to value (ruch płatny ma niską intencję) |
+| Sales | Równoważenie potrzeb wielu person (np. kupujący vs end user) |
 
-Dla produktów sprzedawanych przez sales: sprawdź, kto kupuje, kto używa i czy jedna osoba nie blokuje drugiej. Często produkt musi najpierw spełnić wymagania kupującego (raportowanie, compliance), a dopiero potem wygodę użytkownika.
+Dla produktów sprzedawanych przez sales: sprawdź, kto kupuje, kto używa i czy jedna osoba nie blokuje drugiej. Często produkt musi najpierw spełnić wymagania kupującego (raportowanie, compliance), a dopiero potem wygodę usera.
 
-## 6. Monetyzacja: product-model fit
+## 6. Monetization: product-model fit
 
-Dopasowanie produktu do modelu monetyzacji zależy od kategorii firmy. Typologia (wartości orientacyjne, sprawdź w materiałach kursu):
+Product-model fit zależy od kategorii firmy. Liczby poniżej są orientacyjne. Przy ważnej decyzji porównaj je z materiałami kursu.
 
-| Kategoria | ARPPU (orientacyjnie) | Płacący użytkownicy | Typowy wzorzec poprawy dopasowania |
+| Kategoria | ARPPU (orientacyjnie) | Płacący userzy | Typowy wzorzec product-model fit |
 |---|---|---|---|
-| Mass market | ok. 10 USD | ok. 10 mln | Wirusowość albo treści generowane przez użytkowników i SEO, silne efekty sieciowe |
+| Mass market | ok. 10 USD | ok. 10 mln | Wirusowość albo UGC i SEO, silne efekty sieciowe |
 | Prosumer | ok. 100 USD | ok. 1 mln | Wirusowość przez kontakt "przy okazji" (np. podpis w wiadomościach) |
 | SMB | ok. 1 000 USD | ok. 100 tys. | Wysoki NPS, produkt self-serve, darmowy plan lub próba |
 | Mid-market | ok. 10 000 USD | ok. 10 tys. | Produkt "w 80%" bez głębokiej customizacji, self-serve z wyższymi planami o większych możliwościach |
@@ -246,13 +246,13 @@ Dopasowanie produktu do modelu monetyzacji zależy od kategorii firmy. Typologia
 
 Jak użyć: oszacuj ARPPU w polu (z sygnałów), przypisz kategorię i sprawdź, czy produkt, kanał i sposób sprzedaży pasują do wzorca tej kategorii. Niedopasowanie (np. cena z kategorii SMB, ale sprzedaż przez zespół sprzedaży z długim cyklem) to ważny sygnał. Jeśli dane o cenie są niespójne, zaznacz to wprost zamiast przyjmować jedną wersję.
 
-## Kryteria atrakcyjności grupy docelowej
+## Kryteria atrakcyjności target audience
 
 Używane w kroku 4 (ocena pól gry):
 
 1. **Wielkość segmentu:** czy jest dość duży, żeby zbudować na nim biznes?
-2. **Rezonans z propozycją wartości:** jak dobrze obecna propozycja trafia w tę grupę?
+2. **Rezonans z value proposition:** jak dobrze obecna value proposition trafia w tę grupę?
 3. **Gotowość do zapłaty:** czy mamy dowód (budżet, wartość, zachowanie)?
-4. **Najsilniejsza dostarczona wartość:** która grupa jest najbardziej zaangażowana i zadowolona (NPS, retencja)?
+4. **Najsilniejsza dostarczona wartość:** która grupa jest najbardziej zaangażowana i zadowolona (NPS, retention)?
 5. **Kanał:** czy da się do niej dotrzeć skutecznie i tanio dostępnymi kanałami?
 6. **Dopasowanie strategiczne:** czy grupa pasuje do wizji firmy, szczególnie tam, gdzie chcemy się rozszerzać?
